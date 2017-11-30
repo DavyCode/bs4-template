@@ -4,9 +4,20 @@ body {
 }
 
 #cover {
-    background: url('images/photo.jpg') no-repeat;
+    background: #222 url('../images/photo.jpeg') no-repeat;
     background-size: cover;
     color: white;
     height: 100%;
     text-align: center;
+    display: flex;
+    align-items: center;
+    padding-left: 90px;
+}
+
+#cover-caption {
+    width: 100%;
+}
+
+.form-inline {
+    padding-left: 100px;
 }
