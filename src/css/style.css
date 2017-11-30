@@ -11,7 +11,8 @@ body {
     text-align: center;
     display: flex;
     align-items: center;
-    padding-left: 90px;
+    /* padding-left: 90px; */
+    /* width: 100%; */
 }
 
 #cover-caption {
@@ -20,4 +21,9 @@ body {
 
 .form-inline {
     padding-left: 100px;
+}
+
+img {
+    height: 100%;
+    max-width: 100%;
 }
