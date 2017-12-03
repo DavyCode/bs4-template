@@ -16,3 +16,5 @@ npm start
 ```
 
 Files are compiled into /src
+
+View template here : https://davycode.github.io/bs4-template/src/index.html
